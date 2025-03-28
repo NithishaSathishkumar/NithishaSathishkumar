@@ -9,7 +9,7 @@
 
 - 📝 I regularly update about me in [www.linkedin.com/in/nithishasathishkumar](www.linkedin.com/in/nithishasathishkumar)
 
-- 💬 Ask me about **C++, Java, Python, Database, CSS, HTML, Javascript basically Full Stack**
+- 💬 Ask me about **C++, Java, Python, Database, CSS, HTML, Javascript basically anything about Full Stack**
 
 - 📫 How to reach me **sathishkumar.nithisha@gmail.com**
 
